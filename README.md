@@ -1,5 +1,6 @@
-# terraform-may-vpc
+#### terraform-may-vpc
 
+```hcl
 module "may" {
   source  = "LikeNo1Else/may/vpc"
   version = "2.0.0"
