@@ -9,5 +9,5 @@ module "may" {
   subnet2_cidr = "" 
   subnet3_cidr = ""
   vpc_name = "kaizen"
-
 }
+```
